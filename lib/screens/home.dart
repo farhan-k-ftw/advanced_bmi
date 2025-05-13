@@ -247,5 +247,4 @@ class _HomeState extends State<Home> {
     );
   }
 }
-git config --global user.name "farhan-k-ftw"
-git config --global user.email "farhankmohammed4@gmail.com"
+
